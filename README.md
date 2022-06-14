@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning full stack software development with the School of Code!
-- 🔭 I’m have most recently been working on Streamlit applications analysing the NYC rental market
+- 🌱 I’m currently learning a lot with the School of Code!
+- 🔭 I’m have previously developed Streamlit applications analysing the NYC rental market
 
 
 
@@ -25,6 +25,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="xd" width="40" height="40"/> </a> 
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="xd" width="40" height="40"/> </a> 
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/798/5084798-middle.png" alt="xd" width="40" height="40"/> </a> 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);"  src="https://github.com/skandog/assets/blob/main/express-white.svg" alt="xd" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/pandas-inverse-wordmark.svg" alt="xd" width="40" height="40"/> </a>  </p>
   
