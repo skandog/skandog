@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning a lot with the School of Code!
 - 👨‍🎓 I’m have previously: used R and Matlab to develop iterative solutions in computational mathematics.
 - 📊 I’m have previously: deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
-
-
+- 💬 Ask me about cooking, music and history 
+- ⚡ Fun fact: I was radio dj in another life
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -34,23 +34,14 @@
   
 <!--
 
-Here are some ideas to get you started:
-
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <a href="" target="_blank" rel="noreferrer"> <img src="" alt="xd" width="40" height="40"/> </a> 
 
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 -->
