@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning a lot with the School of Code!
-- 👨‍🎓 I’m have previously: used R and Matlab to develop iterative solutions in computational mathematics.
-- 📊 I’m have previously: deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
+- 👨‍🎓 I have previously: used R and Matlab to develop iterative solutions in computational mathematics.
+- 📊 I have previously: deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
 - 💬 Ask me about cooking, music and history 
 - ⚡ Fun fact: I was radio dj in another life
 
