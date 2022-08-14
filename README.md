@@ -25,6 +25,9 @@
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/nodejs-inverted-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="40" height="40"/> </a>
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/mongodb-invert-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="xd" width="40" height="40"/> </a>
