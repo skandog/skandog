@@ -5,7 +5,7 @@
 - 📊 I have previously deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
 - 🎒 I have recently built a full stack application with Team.js called Backpack!
 - 🔍 I am currently working with JCS on another full-stack app called Foodbank Finder
-- 💬 Ask me about cooking, music and history 
+- 💬 Ask me about cooking, music and history
 - ⚡ Fun fact: I was radio dj in another life
 
 <h3 align="left">Languages:</h3>
@@ -17,23 +17,23 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 <h3 align:"left" id="libraries">Libraries and Frameworks:</h3>
 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/nodejs-inverted-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/mongodb-invert-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/streamlit-logo.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);"  src="https://github.com/skandog/assets/blob/main/express-white.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/pandas-inverse-wordmark.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/nodejs-inverted-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/mongodb-invert-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/streamlit-logo.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);"  src="https://github.com/skandog/assets/blob/main/express-white.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/pandas-inverse-wordmark.svg" alt="xd" width="40" height="40"/> </a>  </p>
-  
+![Skandog's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandog&show_icons=true&count_private=true&theme=nightowl&hide=stars,issues)
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skandog&layout=compact)](https://github.com/skandog/github-readme-stats)
+
 <!--
 
 
@@ -44,6 +44,6 @@
 - 😄 Pronouns: ...
 
 
-<a href="" target="_blank" rel="noreferrer"> <img src="" alt="xd" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="" alt="xd" width="40" height="40"/> </a>
 
 -->
