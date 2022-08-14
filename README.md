@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning a lot with the School of Code!
-- 👨‍🎓 I have previously: used R and Matlab to develop iterative solutions in computational mathematics.
-- 📊 I have previously: deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
+- 👨‍🎓 I have previously used R and Matlab to develop iterative solutions in computational mathematics.
+- 📊 I have previously deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
+- 🎒 I have recently built a full stack application with Team.js called Backpack!
+- 🔍 I am currently working with JCS on another full-stack app called Foodbank Finder
 - 💬 Ask me about cooking, music and history 
 - ⚡ Fun fact: I was radio dj in another life
 
