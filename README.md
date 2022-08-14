@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![counter](https://enpeuak74l4g1ms.m.pipedream.net)
+
 - 🌱 I’m currently learning a lot with the School of Code!
 - 👨‍🎓 I have previously used R and Matlab to develop iterative solutions in computational mathematics.
 - 📊 I have previously deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
@@ -33,6 +35,11 @@
 ![Skandog's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandog&show_icons=true&count_private=true&theme=nightowl&hide=stars,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skandog&layout=compact)](https://github.com/skandog/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/skandog/count.svg" />
+</p>
 
 <!--
 
