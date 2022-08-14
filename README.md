@@ -36,11 +36,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skandog&layout=compact)](https://github.com/skandog/github-readme-stats)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/skandog/count.svg" />
-</p>
-
 <!--
 
 
