@@ -36,7 +36,7 @@
 
 ![Skandog's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandog&show_icons=true&count_private=true&theme=nightowl&hide=stars,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skandog&layout=compact&theme=nightowl)](https://github.com/skandog/github-readme-stats)
+
 
 <!--
 
