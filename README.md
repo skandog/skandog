@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning more about python, exploring the Twitter API and Django framework 
+- 🌱 I’m currently learning more about python, exploring the Twitter API and Django framework. I am also working hard on my TDD skills, working with jest and cypress. 
 - 📜 I recently graduated from the School of Code!
 - 👨‍🎓 I have previously used R and Matlab to develop iterative solutions in computational mathematics.
 - 📊 I have previously deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
