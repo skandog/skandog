@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning more about python, exploring the Twitter API and Django framework. 
-- 🌱 I am also working hard on my TDD skills, working with jest and cypress. 
 - 📜 I recently graduated from the School of Code!
 - 👨‍🎓 I have previously used R and Matlab to develop iterative solutions in computational mathematics.
 - 📊 I have previously deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
 - 🎒 I have built a full stack application (in one week) with Team.js called Backpack!
 - 🔍 I have recently built another full-stack app (in four weeks) with JCS called Foodbank Finder
+- 🌱 I’m currently learning more about python, exploring the Twitter API and Django framework. 
+- 🌱 I am also working hard on my TDD skills, working with jest and cypress. 
 - 💬 Ask me about cooking, music and history
 - ⚡ Fun fact: I was radio dj in another life
 
