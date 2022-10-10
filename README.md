@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning more about python, exploring the Twitter API and Django framework. 
 - 🌱 I am also working hard on my TDD skills, working with jest and cypress. 
 - 💬 Ask me about cooking, music and history
-- ⚡ Fun fact: I was radio dj in another life
+- ⚡ Fun fact: I was a radio dj in another life
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
