@@ -13,6 +13,17 @@
 
 ![codewars](https://www.codewars.com/users/skandog/badges/large)
 
+![Skandog's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandog&show_icons=true&count_private=true&theme=nightowl&hide=stars,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skandog&layout=compact&theme=nightowl&langs_count=8)](https://github.com/skandog/github-readme-stats)
+
+
+![counter](https://enpeuak74l4g1ms.m.pipedream.net)
+
+
+<!--
+
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -36,12 +47,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img style="filter: invert(100%);"  src="https://github.com/skandog/assets/blob/main/express-white.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/skandog/assets/blob/main/pandas-inverse-wordmark.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![Skandog's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandog&show_icons=true&count_private=true&theme=nightowl&hide=stars,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skandog&layout=compact&theme=nightowl&langs_count=8)](https://github.com/skandog/github-readme-stats)
-
-
-![counter](https://enpeuak74l4g1ms.m.pipedream.net)
 
 
 
