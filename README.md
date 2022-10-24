@@ -41,6 +41,8 @@
 
 ![counter](https://enpeuak74l4g1ms.m.pipedream.net)
 
+![codewars](https://www.codewars.com/users/skandog/badges/large)
+
 <!--
 
 
