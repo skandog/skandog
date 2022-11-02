@@ -15,7 +15,7 @@
 
 ![Skandog's GitHub stats](https://github-readme-stats.vercel.app/api?username=skandog&show_icons=true&count_private=true&theme=nightowl&hide=stars,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skandog&layout=compact&theme=nightowl&langs_count=8)](https://github.com/skandog/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skandog&layout=compact&theme=nightowl&langs_count=10)](https://github.com/skandog/github-readme-stats)
 
 
 ![counter](https://enpeuak74l4g1ms.m.pipedream.net)
