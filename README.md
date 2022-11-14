@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 
-- 📜 I recently graduated from the School of Code!
-- 👨‍🎓 I have previously used R and Matlab to develop iterative solutions in computational mathematics.
-- 📊 I have previously deployed Streamlit applications, developed in Python, which provided an analysis of the NYC rental market.
-- 🎒 I have built a full stack application with Team.js called Backpack.
-- 🔍 I have recently built another full-stack app with JCS called Foodbank Finder.
-- 🌱 I have recently been learning more about python, exploring the Twitter API and Django framework. 
-- 🌱 I am also working hard on my TDD skills, working with jest and cypress. 
-- 🌱 I am currently working on my PHP knowledge.
+- 🧑 My name is Alexander but everyone calls me Skandy, a nickname my Dad gave me.
+- 📜 I studied full-stack development at the School of Code!
+- 👨‍🎓 I first started coding in university, used R and Matlab to develop iterative solutions in computational mathematics.
+- 📊 I have deployed data science applications, developed in Python, which provided an analysis of the NYC rental market.
+- 🎒 I have built and deployed a full stack application with Team.js called Backpack.
+- 🔍 I have built and deploeyed a full-stack application with JCS called Foodbank Finder.
+- 🌱 I have this year been learning more about python, exploring the Twitter API and Django framework. 
+- 🌱 I am constantly improving at TDD, working with jest and cypress. 
+- 🌱 I am expanding my PHP knowledge.
 - 💬 Ask me about cooking, music and history
-- ⚡ Fun fact: I was a radio dj in another life
 
 ![codewars](https://www.codewars.com/users/skandog/badges/large)
 
