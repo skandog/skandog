@@ -7,10 +7,10 @@
 - 👨‍🎓 I first started coding in university, used R and Matlab to develop iterative solutions in computational mathematics.
 - 📊 I have deployed data science applications, developed in Python, which provided an analysis of the NYC rental market.
 - 🎒 I have built and deployed a full stack application with Team.js called Backpack.
-- 🔍 I have built and deployed a full-stack application with JCS called Foodbank Finder.
+- 🔍 I have built and deployed a full-stack application with JCS called [Foodbank Finder](https://your-local-foodbank.netlify.app/).
 - 🌱 Last year I spent time learning more about python, exploring the Twitter API and Django framework. 
 - 🌱 I am constantly improving at TDD, working with jest and cypress. 
-- 🌱 On the side I expand my PHP knowledge. Recently built a [Twitter application](https://twitter.com/FanclubMitro) automated with a [YAML workflow](https://github.com/skandog/FanclubMitro).
+- 🌱 On the side I expand my PHP knowledge. Recently built a [Twitter application](https://twitter.com/FanclubMitro) automated with [YAML workflows](https://github.com/skandog/FanclubMitro).
 - 💬 Ask me about cooking, music and history
 
 ![codewars](https://www.codewars.com/users/skandog/badges/large)
