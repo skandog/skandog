@@ -8,7 +8,7 @@
 - 📊 I have deployed data science applications, developed in Python, which provided an analysis of the NYC rental market.
 - 🎒 I have built and deployed a full stack application with Team.js called Backpack.
 - 🔍 I have built and deployed a full-stack application with JCS called Foodbank Finder.
-- 🌱 Last year i spent time learning more about python, exploring the Twitter API and Django framework. 
+- 🌱 Last year I spent time learning more about python, exploring the Twitter API and Django framework. 
 - 🌱 I am constantly improving at TDD, working with jest and cypress. 
 - 🌱 I am expanding my PHP knowledge, concentrated in a Twitter application automated with a YAML workflow.
 - 💬 Ask me about cooking, music and history
