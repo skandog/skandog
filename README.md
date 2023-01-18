@@ -10,7 +10,7 @@
 - 🔍 I have built and deployed a full-stack application with JCS called Foodbank Finder.
 - 🌱 Last year I spent time learning more about python, exploring the Twitter API and Django framework. 
 - 🌱 I am constantly improving at TDD, working with jest and cypress. 
-- 🌱 I am expanding my PHP knowledge, concentrated in a Twitter application automated with a YAML workflow.
+- 🌱 On the side I expand my PHP knowledge. Recently built a Twitter application automated with a YAML workflow.
 - 💬 Ask me about cooking, music and history
 
 ![codewars](https://www.codewars.com/users/skandog/badges/large)
