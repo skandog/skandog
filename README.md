@@ -2,7 +2,7 @@
 
 
 - 🧑 My name is Alexander but everyone calls me Skandy, a nickname my Dad gave me.
-- 👨‍💻 I am currently exploring React Native, building a productivity app called [PomFocus](https://github.com/skandog/PomFocus)
+- 👨‍💻 I am currently exploring React Native, building a productivity app called [PomFocus](https://github.com/skandog/PomFocus).
 - 📜 I studied full-stack development at the School of Code!
 - 👨‍🎓 I first started coding in university, used R and Matlab to develop iterative solutions in computational mathematics.
 - 📊 I have deployed data science applications, developed in Python, which provided an analysis of the NYC rental market.
@@ -11,7 +11,7 @@
 - 🌱 Last year I spent time learning more about python, exploring the Twitter API and Django framework. 
 - 🌱 I am constantly improving at TDD, working with jest and cypress. 
 - 🌱 On the side I expand my PHP knowledge. Recently built a [Twitter application](https://twitter.com/FanclubMitro) automated with [YAML workflows](https://github.com/skandog/FanclubMitro).
-- 💬 Ask me about cooking, music and history
+- 💬 Chat to me about cooking, music, football. 
 
 ![codewars](https://www.codewars.com/users/skandog/badges/large)
 
