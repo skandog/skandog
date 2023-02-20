@@ -3,7 +3,7 @@
 
 - 🧑 My name is Alexander but everyone calls me Skandy, a nickname my Dad gave me.
 - 👨‍💻 I am currently exploring React Native, and building a restaurant finding app called [EatNow](https://github.com/skandog/EatNow)
-- ⏲ I recently built a productivity app called [PomFocus](https://github.com/skandog/PomFocus).
+- ⏲ I recently built a productivity app in React Native called [PomFocus](https://github.com/skandog/PomFocus).
 - 📜 I studied full-stack development at the School of Code!
 - 👨‍🎓 I first started coding in university, used R and Matlab to develop iterative solutions in computational mathematics.
 - 📊 I have deployed data science applications, developed in Python, which provided an analysis of the NYC rental market.
