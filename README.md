@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-- 🧑 My name is Alexander but everyone calls me Skandy, a nickname my Dad gave me.
+- 🧑 My name is Alexander but everyone calls me Skandy.
 - 👨‍💻 Working full time as an application developer, primarily using JavaScript/TypeScript (React, Angular, Sails.js), Python and Linux.
 - 📚 In my spare time I am learning Java.
+- 🏫 I studied mathematics at the University of Glasgow.
 - 📜 I studied full-stack development at the School of Code.
 - 👨‍🎓 I first started coding in university and used R and Matlab to develop iterative solutions in computational mathematics.
 - 📊 I have deployed data science applications, developed in Python, which provided an analysis of the NYC rental market.
